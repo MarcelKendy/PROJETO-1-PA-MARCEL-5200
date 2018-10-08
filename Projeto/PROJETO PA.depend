@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1535645544 source:c:\progams\codeblocks\projects\projeto pa\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<iomanip>
+	<stdlib.h>
+
